@@ -1,0 +1,15 @@
+{
+    "title": "Widget Customization Verification",
+    "baseURL": "https:\/\/www.widgetitio.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1759125",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "widgetitio.com"
+    }
+}
