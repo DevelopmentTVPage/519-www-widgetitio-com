@@ -13,6 +13,12 @@
         },
         ".widget-body": {
             "widget_background_color": "rgba(255, 0, 0, 1)"
+        },
+        ".slick-dots li button": {
+            "carousel_dot_display": "none"
+        },
+        ".carousel-arrow": {
+            "carousel_arrow_display": "none"
         }
     }
 }
