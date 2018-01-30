@@ -1,0 +1,25 @@
+{
+    "pageNumber": 0,
+    "data": [
+        {
+            "id": "139425490",
+            "title": "Streamingforever",
+            "date_created": "1517336988",
+            "loginId": "1759125",
+            "tags": null,
+            "description": "",
+            "asset": {
+                "type": "mp4",
+                "type_stream": "live",
+                "sources": [],
+                "hlsUrl": "https:\/\/8343f7014c0ea438.mediapackage.us-west-2.amazonaws.com\/out\/v1\/2e24c8448d314ff8b5095582e30d73b0\/index.m3u8",
+                "dashUrl": "https:\/\/8343f7014c0ea438.mediapackage.us-west-2.amazonaws.com\/out\/v1\/ee1c89ef277847b580defcb93a5027b7\/index.mpd",
+                "live_status": "LIVE_STARTED",
+                "live_quality": "1080",
+                "status_url": "\/\/stage.tvpage.com\/api\/videos\/live\/status\/1759125\/139425490"
+            },
+            "parentId": "139425492",
+            "url": "\/live-stream\/streamingforever\/139425492-139425490"
+        }
+    ]
+}

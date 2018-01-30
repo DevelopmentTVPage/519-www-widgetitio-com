@@ -1,0 +1,19 @@
+{
+    "title": "Live Stream",
+    "description": null,
+    "referenceId": null,
+    "date_created": "1517338587",
+    "date_modified": "1517338605",
+    "tags": null,
+    "sourceId": null,
+    "status": "pending",
+    "visibility": "1",
+    "id": "139425492",
+    "loginId": "1759125",
+    "entityType": "3",
+    "titleTextEncoded": "Live-Stream",
+    "category": null,
+    "duration": null,
+    "settings": "{\"canvasImage\":\"default_canvas3.jpg\",\"colorClass\":\"light\",\"canvasType\":\"gallery\"}",
+    "transcripts": null
+}
